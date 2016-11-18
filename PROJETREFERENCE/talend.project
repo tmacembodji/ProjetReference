@@ -350,4 +350,6 @@
     <migrationTask xmi:id="_mndUfK2WEeaIFoME2L0vVA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_lYTZMa2WEeaIFoME2L0vVA" login="thomas.mace-mbodji@fivesgroup.com" firstName="Thomas" lastName="Macé Mbodji" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_xanpoa2YEeazIKJj6eYNug" login="jeremy.vanrooy@fivesgroup.com" firstName="Jérémy" lastName="Van Rooy" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_xanpoq2YEeazIKJj6eYNug" login="jean-claude.gossec@fivesgroup.com" firstName="Jean-Claude" lastName="Gossec" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
