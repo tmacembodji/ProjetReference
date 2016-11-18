@@ -2,3 +2,4 @@
  * Task [UpdateTMultiPatternCheckTask] : Applied successfully
  * Task [Update "compute group quality" to false for non-separate mode] : Applied successfully
  * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
+ ---=== End of migration ===---
