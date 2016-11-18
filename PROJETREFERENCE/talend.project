@@ -156,7 +156,6 @@
     <migrationTask xmi:id="_mnctV62WEeaIFoME2L0vVA" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_mnctWK2WEeaIFoME2L0vVA" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_mnctWa2WEeaIFoME2L0vVA" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_mnctWq2WEeaIFoME2L0vVA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_mnctW62WEeaIFoME2L0vVA" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_mnctXK2WEeaIFoME2L0vVA" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="ok"/>
     <migrationTask xmi:id="_mnctXa2WEeaIFoME2L0vVA" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -347,7 +346,10 @@
     <migrationTask xmi:id="_mndUea2WEeaIFoME2L0vVA" id="org.talend.designer.core.generic.model.migration.Salesforce620Migration" breaks="6.2.1" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_mndUeq2WEeaIFoME2L0vVA" id="org.talend.repository.generic.model.migration.Salesforce620WizardMigration" breaks="6.2.1" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_mndUe62WEeaIFoME2L0vVA" id="org.talend.repository.model.migration.AddDefaultVersionValueForElasticsearchLookupInput" breaks="6.2.0" version="6.2.1" status="noimpact"/>
-    <migrationTask xmi:id="_mndUfK2WEeaIFoME2L0vVA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_FrdsoK2ZEeazIKJj6eYNug" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_Frdsoa2ZEeazIKJj6eYNug" id="org.talend.datacleansing.core.migration.UpdateTMultiPatternCheckTask" breaks="5.6.0" version="5.6.0" status="ok"/>
+    <migrationTask xmi:id="_Frdsoq2ZEeazIKJj6eYNug" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupQualityTask" breaks="5.6.0" version="5.6.0" status="ok"/>
+    <migrationTask xmi:id="_Frdso62ZEeazIKJj6eYNug" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_lYTZMa2WEeaIFoME2L0vVA" login="thomas.mace-mbodji@fivesgroup.com" firstName="Thomas" lastName="Macé Mbodji" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_xanpoa2YEeazIKJj6eYNug" login="jeremy.vanrooy@fivesgroup.com" firstName="Jérémy" lastName="Van Rooy" type="DQ" additionnalData="{}"/>
